@@ -1,0 +1,331 @@
+.body1{
+    background-image: url('../фото/Розы\ 2.jpg');
+    background-size: cover;
+}
+.body2{
+   background-image: url('../фото/Розы\ 2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body3{
+    background-image: url("../фото/Фиалки\ 2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body4{
+    background-image: url("../фото/Ромашки\ 1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body5{
+    background-image: url("../фото/Тюльпаны\ нарезка.\ jpg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    align: center;
+}
+.body6{
+    background-image: url("../фото/Кактусы\.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body7{
+    background-image: url("../Images/подснежник\ 1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.yellowroza{
+    background-image: url("../фото/yellow\ roza.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.zefir{
+    background-image: url("../фото/Фиалки\ 2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.nav{
+    
+    background-color: rgb(255, 255, 255); 
+    float: left;
+    list-style: none;
+    display:inline-block;
+    margin-bottom: 4cm;
+   }
+   .nav li{
+    display:inline-block;
+    border-color: rgb(0, 2, 2);
+    border-width: 2px;
+    border-collapse: collapse; 
+    border-style: solid;
+    font-size: 48px;
+   }
+   a{
+    text-decoration: none;
+    }
+    #roza{
+        border: solid black 3px;
+        font-size: 25px;
+        color: blueviolet;
+        margin-top: 25px;
+        background-color: white;
+        opacity: 0.8;
+        position: relative;
+        z-index: -1;
+        height: auto;
+        
+    }
+    #yelowrz{
+        border: solid black 3px;
+        font-size: 25px;
+        color: rgb(25, 70, 8);
+        margin-top: 25px;
+        background-color: white;
+        opacity: 0.8;
+        position: relative;
+        z-index: -1;
+        height: 260px;
+    }
+    #fial{
+        background-color: rgb(139, 85, 202);
+        opacity: 0.8;
+        font-size: 30px;
+        position: relative;
+        z-index: -1;
+        margin-top: 25px;
+        border: solid black 3px;
+        height: auto;
+        color: aliceblue;
+
+    }
+    #k1{
+        color: black;
+    }
+    #zef{
+        background-color: rgb(207, 129, 214);
+        opacity: 0.8;
+        font-size: 30px;
+        position: relative;
+        z-index: -1;
+        margin-top: 25px;
+        border: solid black 3px;
+        height: auto;
+        color: rgb(70, 79, 206);
+
+    }
+    #Rom{
+        background-color: rgb(255, 255, 255);
+        opacity: 0.8;
+        font-size: 30px;
+        position: relative;
+        z-index: -1;
+        margin-top: 25px;
+        border: solid black 3px;
+        height: auto;
+        color: rgb(0, 0, 0);  
+    }
+    #Tyl{
+        background-color: rgb(228, 139, 139);
+        opacity: 0.8;
+        font-size: 30px;
+        position: relative;
+        z-index: -1;
+        margin-top: 25px;
+        border: solid black 3px;
+        height: auto;
+        color: rgb(0, 0, 0);  
+    }
+    #ASTR{
+        background-color: rgb(255, 255, 255);
+        opacity: 0.9;
+        font-size: 30px;
+        position: relative;
+        z-index: -1;
+        margin-top: 25px;
+        border: solid black 3px;
+        height: auto;
+        color: green;  
+    }
+
+tr:hover,td:hover{
+    background-color:rgb(33, 117, 212); 
+}
+.span{
+    font-size: 45px;
+    color: rgb(75, 4, 40);
+    background-color: rgba(248, 158, 207, 0.884);
+    opacity: 0.7;
+    margin-top: 140px;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    z-index: -2;
+}
+div{
+    font-size: 25px;
+}
+
+.sd{
+    font-size: 40px;
+    color:rgb(255, 0, 0);
+    background-color: antiquewhite;
+    opacity: 0.9;
+}
+.sd1{
+    color: white;
+
+}
+.sd2{
+    background-color: rgb(237, 169, 243);
+    opacity: 0.8;
+    font-size: 30px;
+    position: relative;
+    z-index: -1;
+    margin-top: 25px;
+    border: solid black 3px;
+    height: auto;
+    color: rgb(106, 18, 114);
+
+    }
+.sd3{
+     background-color: white;
+    color:black;
+    margin-top: 1cm;
+    opacity: 0.9;
+    position: relative;
+    z-index: -1;
+  
+}
+.sd5{
+    background-color: rgb(120, 223, 120);
+    opacity: 0.8;
+    font-size: 30px;
+    position: relative;
+    z-index: -1;
+    margin-top: 25px;
+    border: solid black 3px;
+    height: auto;
+    color: rgb(106, 18, 114);
+
+    }
+.sd4{
+    background-color: white;
+   color:green;
+   margin-top: 1cm;
+   opacity: 0.9;
+   position: relative;
+   font-size: 27px;
+   z-index: -1;}
+
+.menu{
+    list-style: none;
+    font-size: 35px;
+    
+    opacity: 0.9; 
+    
+}
+.menu li{
+    display:inline-block;
+    border-width: 2px;  
+    border-style: solid;
+    padding: 2px 2px 1px 1px;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative;
+    background-color: rgb(33, 54, 45);
+    
+    color: black;
+}
+/*.menu li:hover{
+    background-color: rgb(182, 150, 174);
+}*/
+.menu a{
+   text-decoration: none; 
+}
+/*.menu a:hover{
+    text-decoration: underline;  
+}*/
+.menu li ul {
+    display: none;
+    font-size: 20px;
+    border-color: red;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    top: 42px;
+}
+.menu li ul li{
+ float: none;
+ height: 45px;
+ margin: 0;
+ width: 150px;
+ text-align: center;
+ background-color: rgb(223, 178, 211);
+ color:red;
+
+ 
+ 
+
+
+}
+.menu  li:hover ul {
+    display: block;
+}
+.menu li ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 150px;
+}
+#iframe{
+    width:560px;
+     height:315px;
+     margin: 20px 20px 10px 10px;
+     border: 7px rgb(23, 179, 83) solid;
+}
+#index1{
+    color: rgb(149, 149, 184);
+}
+#index2{
+    border: 2px;
+    border-color: rgb(46, 6, 70);
+    border-style: solid;
+    background-color: rgb(196, 166, 224);
+    margin: 0, 0, 0, 0;
+}
+.zagolovok{
+    font-size: 50px;
+    color: rgb(189, 150, 240);
+    margin-bottom: 10px;
+}
+.zagolovok2{
+    font-size: 50px;
+    color: rgb(245, 205, 245);
+    margin-bottom: 10px;
+}
+.zagolovok1{
+    font-size: 50px;
+    color: rgb(250, 250, 250);
+    margin-bottom: 10px;
+}
+.menu li ul li a{
+   color:rgb(121, 62, 118); 
+}
+#photo{
+    float: left;
+    margin: 4px 4px 4px 4px;
+}
+#zagolovok{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+#photo1{
+    float: left;
+    margin: 4px 4px 4px 4px;
+    border: solid 4px black; 
+}
+
